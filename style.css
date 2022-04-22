@@ -1,0 +1,79 @@
+
+/* CSS Document */
+head {
+	margin: 0;
+	padding: 0;
+}
+html {
+	background: url("images/cookies.jpg-1.png");
+	background-repeat: no-repeat;
+	background-size: auto;
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+
+.all {
+	
+	width: 100%;
+	height: 100%;
+	
+}
+
+.header {
+	color: white;
+	font-weight: bold;
+	font-size: 25pt;
+	text-align: center;
+	margin-top: 50px;
+	float: center;
+}
+
+.theThread {
+	margin: auto;
+	float: center;
+	display: block;
+	width: 900px;
+	border: 2px solid #5E5E5E;
+	text-align: center;
+	margin-top: 75px;
+	background:rgba(0,0,0, 0.3);
+	color: white;
+	
+}
+
+.repsondhead {
+	margin-top: 35px;
+	text-align: center;
+	font-weight: bold;
+	color: white;
+}
+
+
+.responseBox {
+	width: 700px;
+	height: 300px;
+	display: block;
+	padding-left: 200px ;
+	margin: auto;
+	border: 2px solid #000000;
+	background:rgba(0,0,0, 0.3);
+	color: white;
+}
+
+
+.fname {
+	margin-top: 10px;
+	margin-bottom: 15px;
+	width: 475px;
+}
+.comment {
+	margin-top: 10px;
+	width: 475px;
+	height: 150px;
+}
+
+.namelabel {
+	margin-top: 50px;
+}
