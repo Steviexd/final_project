@@ -31,14 +31,18 @@ html {
 }
 
 .theThread {
+	position:fixed;
+    top:0;
+    width:100%;
 	margin: auto;
-	float: center;
-	display: block;
-	width: 900px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	
 	border: 2px solid #5E5E5E;
 	text-align: center;
-	margin-top: 75px;
-	background:rgba(0,0,0, 0.3);
+	margin-top: 0px;
+	background:rgba(0,0,0, 0.8);
 	color: white;
 	
 }
